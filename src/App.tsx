@@ -4,6 +4,7 @@ import About from './components/About'
 import { GlobalCss } from './styles'
 import Projects from './components/Projects'
 import Footer from './components/Footer'
+import Contact from './components/Contact'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Banner />
       <About />
       <Projects />
+      <Contact />
       <Footer />
     </>
   )
