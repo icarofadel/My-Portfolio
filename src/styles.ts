@@ -3,7 +3,8 @@ import { createGlobalStyle } from 'styled-components'
 export const cores = {
   white: '#fff',
   black: '#000',
-  red: '#FF0000'
+  red: '#FF0000',
+  fundo: '#111'
 }
 
 export const breakpoints = {
@@ -20,8 +21,13 @@ export const GlobalCss = createGlobalStyle`
     text-decoration: none;
   }
 
+  body {
+    background-color: ${cores.fundo};
+    color: ${cores.white};
+  }
+
   html {
-    croll-behavior: smooth;
+    scroll-behavior: smooth;
   }
 
   .container {
