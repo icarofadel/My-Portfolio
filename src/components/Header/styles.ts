@@ -17,6 +17,8 @@ export const HeaderBar = styled.header`
   font-weight: bold;
   padding: 24px;
   border-radius: 0 0 16px 16px;
+  position: fixed;
+  width: 100%;
 
   a {
     color: ${cores.white};

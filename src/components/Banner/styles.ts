@@ -16,6 +16,7 @@ export const BannerCard = styled.div`
 export const CampoTexto = styled.div`
   text-align: center;
   color: ${cores.white};
+  margin-top: 32px;
 
   h1 {
     font-size: 42px;
