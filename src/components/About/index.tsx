@@ -1,6 +1,6 @@
 import { Card } from './styles'
 
-const Sections = () => (
+const About = () => (
   <div className="container">
     <Card id="sobre">
       <img src="https://placehold.co/200x200" alt="" />
@@ -23,4 +23,4 @@ const Sections = () => (
     </Card>
   </div>
 )
-export default Sections
+export default About
