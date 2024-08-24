@@ -3,6 +3,7 @@ import Header from './components/Header'
 import About from './components/About'
 import { GlobalCss } from './styles'
 import Projects from './components/Projects'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Banner />
       <About />
       <Projects />
+      <Footer />
     </>
   )
 }
