@@ -36,8 +36,8 @@ export const CampoTexto = styled.div`
     font-size: 1.2rem;
     white-space: nowrap;
     overflow: hidden;
-    width: 26ch;
-    animation: animaTexto steps(26) 3s infinite,
+    width: 27ch;
+    animation: animaTexto steps(27) 4s infinite,
         animaMarcador 0.5s linear infinite;
 
       @keyframes animaMarcador {
