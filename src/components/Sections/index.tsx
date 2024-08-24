@@ -2,9 +2,9 @@ import { Card } from './styles'
 
 const Sections = () => (
   <div className="container">
-    <Card>
+    <Card id="sobre">
       <img src="https://placehold.co/200x200" alt="" />
-      <div id="sobre">
+      <div>
         <h4>Quem sou eu</h4>
         <h3>Icaro Fadel</h3>
         <p>

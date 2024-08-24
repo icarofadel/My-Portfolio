@@ -44,7 +44,9 @@ const Header = () => {
       <NavMobile className={isMenuOpen ? 'is-open' : ''}>
         <Links>
           <LinkItem>
-            <a href="#sobre">Sobre mim</a>
+            <a href="#sobre" onClick={() => setIsMenuOpen(false)}>
+              Sobre mim
+            </a>
           </LinkItem>
           <LinkItem>
             <a href="#skills">Habilidades</a>
