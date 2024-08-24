@@ -2,6 +2,7 @@ import Banner from './components/Banner'
 import Header from './components/Header'
 import About from './components/About'
 import { GlobalCss } from './styles'
+import Projects from './components/Projects'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Banner />
       <About />
+      <Projects />
     </>
   )
 }

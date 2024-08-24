@@ -4,7 +4,8 @@ export const cores = {
   white: '#fff',
   black: '#000',
   red: '#FF0000',
-  fundo: '#111'
+  fundo: '#111',
+  cinza: '#808080'
 }
 
 export const breakpoints = {
