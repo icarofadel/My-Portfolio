@@ -2,7 +2,8 @@ import { createGlobalStyle } from 'styled-components'
 
 export const cores = {
   white: '#fff',
-  black: '#000'
+  black: '#000',
+  red: '#FF0000'
 }
 
 export const breakpoints = {
