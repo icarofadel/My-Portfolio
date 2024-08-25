@@ -5,6 +5,7 @@ import { GlobalCss } from './styles'
 import Projects from './components/Projects'
 import Footer from './components/Footer'
 import Contact from './components/Contact'
+import Skills from './components/Skills'
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Header />
       <Banner />
       <About />
+      <Skills />
       <Projects />
       <Contact />
       <Footer />
