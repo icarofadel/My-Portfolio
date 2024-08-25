@@ -9,7 +9,7 @@ import sass from '../../assets/images/sass.png'
 
 const Skills = () => (
   <div className="container">
-    <SectionSkills>
+    <SectionSkills id="skills">
       <h2>Conhecimentos/Skills</h2>
 
       <ListSkills>
