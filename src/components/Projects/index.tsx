@@ -61,13 +61,13 @@ const Projects = () => (
             <CampoButton>
               <ButtonLink
                 buttonType="buttonSite"
-                href="https://projeto-agenda-contato.vercel.app/"
+                href="https://agenda-contato-puce.vercel.app/"
               >
                 Visitar Site
               </ButtonLink>
               <ButtonLink
                 buttonType="buttonRep"
-                href="https://github.com/icarofadel/projeto-agenda-contato"
+                href="https://github.com/icarofadel/agenda-contato"
               >
                 &lt; Repositorio /&gt;
               </ButtonLink>
