@@ -7,7 +7,7 @@ import linkedin from '../../assets/images/linkedin.png'
 const Contact = () => (
   <div className="container">
     <SectionContact id="contato">
-      <h1>Contato</h1>
+      <h2>Contato</h2>
       <RedeSociais>
         <li>
           <a href="mailto:icaro.nata147@gmail.com">

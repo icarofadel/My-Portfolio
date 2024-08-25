@@ -12,7 +12,7 @@ import effod from '../../assets/images/efood.jpg'
 const Projects = () => (
   <div className="container" id="projetos">
     <Title>
-      <h1>Projetos</h1>
+      <h2>Projetos</h2>
     </Title>
 
     <ListProjects>

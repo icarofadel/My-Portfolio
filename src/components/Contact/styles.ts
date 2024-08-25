@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const SectionContact = styled.div`
   margin-top: 32px;
 
-  h1 {
+  h2 {
     text-align: center;
   }
 `
