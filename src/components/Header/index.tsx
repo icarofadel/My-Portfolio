@@ -49,13 +49,19 @@ const Header = () => {
             </a>
           </LinkItem>
           <LinkItem>
-            <a href="#skills">Habilidades</a>
+            <a href="#skills" onClick={() => setIsMenuOpen(false)}>
+              Habilidades
+            </a>
           </LinkItem>
           <LinkItem>
-            <a href="#projetos">Projetos</a>
+            <a href="#projetos" onClick={() => setIsMenuOpen(false)}>
+              Projetos
+            </a>
           </LinkItem>
           <LinkItem>
-            <a href="#contato">Contato</a>
+            <a href="#contato" onClick={() => setIsMenuOpen(false)}>
+              Contato
+            </a>
           </LinkItem>
         </Links>
       </NavMobile>
