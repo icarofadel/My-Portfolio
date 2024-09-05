@@ -11,6 +11,11 @@ export const Card = styled.div`
   background-color: #151515;
   border: 2px solid #1f1f1f;
 
+  img {
+    width: 200px;
+    heigth: 200px;
+  }
+
   h3 {
     margin: 8px 0;
   }

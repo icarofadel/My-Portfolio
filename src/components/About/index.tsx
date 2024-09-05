@@ -1,6 +1,7 @@
 import { Card } from './styles'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
+import perfil from '../../assets/images/perfil.png'
 
 AOS.init()
 
@@ -8,9 +9,9 @@ const About = () => {
   return (
     <div className="container">
       <Card id="sobre" data-aos="fade-up-right">
-        <img src="https://placehold.co/200x200" alt="" />
+        <img src={perfil} alt="" />
         <div>
-          <h4>Quem sou eu</h4>
+          <h4>Quem sou eu?</h4>
           <h3>Icaro Fadel</h3>
           <p>
             Me chamo Icaro Natã Fadel e sou um profissional atuante na área de
