@@ -43,7 +43,7 @@ export const ProjectsItem = styled.li`
 export const Description = styled.div`
   padding: 8px;
 
-  h5 {
+  h4 {
     text-align: center;
   }
 

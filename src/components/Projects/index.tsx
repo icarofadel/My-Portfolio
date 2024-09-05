@@ -27,7 +27,7 @@ const Projects = () => (
         <ProjectsItem>
           <img src={effod} alt="app efood" />
           <Description>
-            <h5>Aplicativo Effod</h5>
+            <h4>Aplicativo Effod</h4>
             <p>
               Aplicativo de uma empresa fictícia utilizando React, HookForm,
               Yup, Mask e retornando o número do pedido com uma API. Projeto
@@ -53,7 +53,7 @@ const Projects = () => (
         <ProjectsItem>
           <img src={agenda} alt="Agenda de contato" />
           <Description>
-            <h5>Agenda de contato com React</h5>
+            <h4>Agenda de contato com React</h4>
             <p>
               Agenda de contato utilizando React e Redux. Projeto valendo nota
               pela EBAC.Valendo nota pela EBAC.
@@ -78,7 +78,7 @@ const Projects = () => (
         <ProjectsItem>
           <img src={aniver} alt="Landing page - Evento de aniversário" />
           <Description>
-            <h5>Landing page - Evento de aniversário</h5>
+            <h4>Landing page - Evento de aniversário</h4>
             <p>
               Landing page de um aniversário utilizando HTML, SCSS, JavaScript e
               com algumas animações. Projeto valendo nota pela EBAC.
@@ -103,7 +103,7 @@ const Projects = () => (
         <ProjectsItem>
           <img src={walle} alt="Clone Disney+ Filme Wall-e" />
           <Description>
-            <h5>Clone Disney+ Filme Wall-e</h5>
+            <h4>Clone Disney+ Filme Wall-e</h4>
             <p>
               Clone da Disney+ para testar algumas habilidades utilizando HTML,
               JavaScript e SCSS. Projeto valendo nota pela EBAC.
