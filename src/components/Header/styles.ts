@@ -18,7 +18,7 @@ export const HeaderBar = styled.header`
   padding: 24px;
   border-radius: 0 0 16px 16px;
   position: fixed;
-  z-index: 1;
+  z-index: 2;
   width: 100%;
 
   a {
